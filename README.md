@@ -1,5 +1,5 @@
 # StockPricePrediction
-Using Natural Language Processing(NLP) to analyze reddit news headlines and predict if the stock price will increase or decrease. <br />
+Using Natural Language Processing(NLP) to analyze reddit news headlines and predict if the stock price(DJIA Index) will increase or decrease. <br />
 Data is collected from https://www.kaggle.com/aaron7sun/stocknews. <br />
 
 # Models
